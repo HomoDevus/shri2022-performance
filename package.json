@@ -16,6 +16,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "vite-plugin-imagemin": "^0.6.1",
     "vite-plugin-require-transform": "^1.0.3"
   }
 }
